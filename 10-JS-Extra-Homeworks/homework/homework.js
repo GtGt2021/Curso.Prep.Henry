@@ -10,6 +10,12 @@ function deObjetoAmatriz(objeto){
       C: 3
     }) ➞ [["D", 1], ["B", 2], ["C", 3]]*/
   //Escribe tu código aquí
+var retornar = Object.keys(objeto).map(function(key)
+{
+//   return[Number(key), objeto[key]];
+})
+return ;
+
 }
 
 
